@@ -9,3 +9,7 @@ Commit message:I have written 6 types headings with different sizes.
 ``` python
 print('Hy! I'm Agnus Jose')
 ```
+- [x] Activate my GitHub page
+- [x] Do tasks
+- [x] Grow my skills
+- [ ] Complete all tasks
